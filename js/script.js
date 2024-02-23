@@ -1,4 +1,4 @@
-import { generateTextAndImage} from "./utils.js"
+import { generateTextAndImage} from "./js/utils.js"
 
 // 1. Change the value of the variable to your name
 let name = "Brendan Raul"
